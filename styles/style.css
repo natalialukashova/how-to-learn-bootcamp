@@ -79,6 +79,8 @@
   position: relative;
   top: 100px;
   bottom: 100px;
+  margin: 0 auto;
+  
 }
 
 .description__two-columns {
@@ -98,6 +100,7 @@
 
 .two-columns__main-text {
   min-width: 784px;
+  width: 80%;
 }
 
 .two-columns__paragraph {
@@ -106,6 +109,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: 400;
+  
 }
 
 .two-columns__paragraph:last-child {
