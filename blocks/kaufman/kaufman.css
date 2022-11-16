@@ -1,0 +1,9 @@
+.kaufman {
+   overflow: hidden;
+   background-color: #1f1f1f;
+   padding-top: 90px;
+   z-index: 1;
+   background-image: url(../../images/kaufman-triangle.svg);
+   background-repeat: no-repeat;
+   background-position: top 0 right -210px;
+ }
