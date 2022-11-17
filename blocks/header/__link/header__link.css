@@ -2,3 +2,7 @@
    text-decoration: none;
    color: #2f80ed;
  }
+
+ .header__link:hover {
+  animation: opacity 0.2s linear 1 forwards;
+}

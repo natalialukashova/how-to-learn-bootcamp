@@ -3,4 +3,6 @@
    font-size: 60px;
    font-weight: 600;
    color: #fff;
+   z-index: 2;
+   position: relative;
  }

@@ -8,3 +8,7 @@
    top: 50%;
    right: 48px;
  }
+
+ .feynman__link:hover {
+  animation: opacity 0.2s linear 1 forwards;
+}

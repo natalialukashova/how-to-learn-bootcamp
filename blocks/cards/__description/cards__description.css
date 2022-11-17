@@ -1,0 +1,8 @@
+.cards__description {
+   overflow: hidden;
+   line-height: 23px;
+   font-size: 18px;
+   font-weight: 400;
+   text-align: center;
+   margin: 0 auto;
+}

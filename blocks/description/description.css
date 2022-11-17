@@ -1,5 +1,5 @@
 .description {
    display: flex;
-   width: 80%;
+   justify-content: center;
    margin: 100px auto;
  }
