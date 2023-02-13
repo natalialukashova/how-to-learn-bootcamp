@@ -1,10 +1,9 @@
 .resources__link {
-   width: 270px;
-   height: 38px;
-   display: flex;
-   justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .resources__link:hover {
-   animation: opacity 0.2s linear 1 forwards;
+  opacity: 0.6;
+  transition: opacity 0.2s ease;
 }

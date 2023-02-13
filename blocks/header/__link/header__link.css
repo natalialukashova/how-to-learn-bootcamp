@@ -4,5 +4,6 @@
  }
 
  .header__link:hover {
-  animation: opacity 0.2s linear 1 forwards;
+  opacity: 0.6;
+  transition: opacity 0.2s ease;
 }
