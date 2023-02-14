@@ -3,6 +3,6 @@
    max-width: 240px;
 }
 
-.cards__item.cards__item:nth-child(3n) {
+.cards__item:nth-child(3n) {
    margin: 0;
  }
