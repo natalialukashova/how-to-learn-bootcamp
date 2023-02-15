@@ -6,4 +6,6 @@
    background-repeat: no-repeat;
    background-position: bottom left 0;
    background-size: 867px 637px;
+   padding-top: 100px;
+   box-sizing: border-box;
  }
